@@ -1,0 +1,7 @@
+This game was created using the Hello tux Engine, an open source tux engine for GameMaker Studio.
+
+The tux franchise is a registered trademark of Nintendo.
+
+For more information, check out the engine's Google Code page.
+
+http://code.google.com/p/hello-tux-engine/
